@@ -29,8 +29,16 @@ This project aims to develop innovative control methodologies that prioritize en
 24 months (Start: Month 1, End: Month 24)
 
 ### Principal Investigator:  
-Michaela Horváthová, PhD  
+Ing. Michaela Horváthová, PhD  
 Postdoctoral Fellow, Institute of Information Engineering, Automation, and Mathematics, FCHPT, STU, Slovakia.
+
+
+**Dr. Michaela Horváthová** takes interest in the field of control systems, automation, and energy-efficient control methods. She received her PhD from the **Slovak University of Technology in Bratislava** at the **Institute of Information Engineering, Automation, and Mathematics**, where her research focused on optimizing control strategies for industrial applications, energy efficiency, and system stability.
+
+Dr. Horváthová has received numerous awards for her academic excellence and research contributions, including the prestigious **Dean’s Prize** multiple times, **The Best Student Personality of the Year**, and **The Best Diploma Thesis Award from Siemens, Slovakia**. These accolades underscore her commitment to advancing the field of control theory and her continuous pursuit of innovation.
+
+In her professional career, Dr. Horváthová has led multiple projects centered around energy-efficient control system design and has collaborated extensively with international researchers from renowned institutions such as **Ruhr-Universität Bochum** in Germany and **Shinshu University** in Japan. As a postdoctoral fellow, she continues to contribute to the advancement of control systems with a special focus on practical applications in industries facing computational and energy constraints.
+
 
 ### Research Focus:  
 The project focuses on developing novel energy-efficient control algorithms for industrial plants. These methods are designed to maintain system stability while reducing energy consumption and improving computational efficiency.
@@ -121,8 +129,8 @@ The project focuses on developing novel energy-efficient control algorithms for 
 
 All research outputs, including journal publications, conference papers, and reports, will be made publicly available on this GitHub page and through the project’s associated repository. Stay tuned for updates!
 
-- [Link to Literature Review Report (D1.1)](link)
-- [Link to Journal Publications](link)
+- [Link to Literature Review Report (D1.1)]((Coming soon in February))
+- [Link to Journal Publications](Coming Soon)
 
 ---
 
@@ -130,7 +138,7 @@ All research outputs, including journal publications, conference papers, and rep
 
 The project will deliver a suite of open-source tools to facilitate the use of energy-efficient control methods. These tools will be accompanied by user documentation and tutorials for ease of use in industrial applications.  
 
-- [Download the Open-Source Tools](link) (Coming soon in Month 23)
+- [Download the Open-Source Tools](link) (Coming in 2026)
 - [User Documentation and Tutorials](link)
 
 ---
