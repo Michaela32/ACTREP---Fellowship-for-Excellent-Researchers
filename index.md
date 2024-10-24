@@ -26,7 +26,7 @@ This project aims to develop innovative control methodologies that prioritize en
 **Energy-Efficient Control Methods for Industrial Applications**
 
 ### Duration:  
-24 months (Start: Month 1, End: Month 24)
+24 months (Start: September 2024, End: August 2026)
 
 ### Principal Investigator:  
 Ing. Michaela Horváthová, PhD  
