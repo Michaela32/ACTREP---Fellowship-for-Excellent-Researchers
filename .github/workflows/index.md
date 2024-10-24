@@ -1,6 +1,6 @@
 # Project Overview
 
-This project, **[Project Name]**, is focused on [Brief description of your grant project]. Our goal is to [Main objective or problem you're solving].
+This project, Advanced Control Solutions Towards Resource Efficient Production, is focused on [Brief description of your grant project]. Our goal is to [Main objective or problem you're solving].
 
 ## Team Members
 
