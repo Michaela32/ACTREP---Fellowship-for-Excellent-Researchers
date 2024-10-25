@@ -1,7 +1,7 @@
 
-# Project: Energy-Efficient Control Methods for Industrial Applications
+# Project: Advanced Control Solutions Towards Resource Efficient Production
 
-## Welcome to the official GitHub page of the **Energy-Efficient Control Methods for Industrial Applications** project!
+## Welcome to the official GitHub page of the **Advanced Control Solutions Towards Resource Efficient Production** project!
 
 This project aims to develop innovative control methodologies that prioritize energy efficiency while ensuring safe and stable operation for industrial systems. The goal is to optimize computational efforts, energy usage, and implementability on embedded industrial hardware. This page will host all project updates, deliverables, open-source tools, and research publications.
 
@@ -23,7 +23,7 @@ This project aims to develop innovative control methodologies that prioritize en
 ## Project Overview
 
 ### Project Title:  
-**Energy-Efficient Control Methods for Industrial Applications**
+**Advanced Control Solutions Towards Resource Efficient Production**
 
 ### Duration:  
 24 months (Start: September 2024, End: August 2026)
