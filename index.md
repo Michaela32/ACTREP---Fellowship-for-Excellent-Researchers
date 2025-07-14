@@ -1,8 +1,6 @@
 
 # Project: Advanced Control Solutions Towards Resource Efficient Production
 
-## Welcome to the official GitHub page of the **Advanced Control Solutions Towards Resource Efficient Production** project!
-
 This project aims to develop innovative control methodologies that prioritize energy efficiency while ensuring safe and stable operation for industrial systems. The goal is to optimize computational efforts, energy usage, and implementability on embedded industrial hardware. This page will host all project updates, deliverables, open-source tools, and research publications.
 
 ---
