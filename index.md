@@ -95,7 +95,7 @@ The project focuses on developing novel energy-efficient control algorithms for 
 
 | Deliverable | Description | Work Package | Type | Delivery Month |
 |-------------|-------------|--------------|------|----------------|
-| D1.1 | Comprehensive literature review report | WP1 | Report | Month 6 |
+| D1.1 | [📄 Download Comprehensive Literature Review Report (PDF)](literarny_prehlad_sprava.pdf) | WP1 | Report | Month 6 |
 | D1.2 | Conference publication on algorithm design | WP1 | Publication | Month 8 |
 | D1.3 | Established basis of international research cooperation | WP1 | Other | Month 8 |
 | D2.1 | CC Journal publication on algorithm design and stability certification | WP2 | Publication | Month 12 |
