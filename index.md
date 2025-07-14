@@ -18,7 +18,7 @@ This project aims to develop innovative control methodologies that prioritize en
 
 ---
 
-## Project Overview
+## 🌱 Project Overview
 
 ### Project Title:  
 **Advanced Control Solutions Towards Resource Efficient Production**
@@ -43,7 +43,7 @@ The project focuses on developing novel energy-efficient control algorithms for 
 
 ---
 
-## Objectives
+## 🎯 Objectives
 
 1. **Develop Novel Energy-Efficient Control Methods:**  
    Create control algorithms that optimize energy consumption while ensuring the safe operation of industrial plants.
@@ -62,7 +62,7 @@ The project focuses on developing novel energy-efficient control algorithms for 
 
 ---
 
-## Work Packages
+## 📁 Work Packages
 
 1. **WP1: Development of Novel and Improvement of Existing Energy-Efficient Control Methods**  
    Duration: Month 1 to Month 8  
@@ -89,7 +89,7 @@ The project focuses on developing novel energy-efficient control algorithms for 
 
 ---
 
-## Deliverables
+## 📝 Deliverables
 
 | Deliverable | Description | Work Package | Type | Delivery Month |
 |-------------|-------------|--------------|------|----------------|
@@ -109,13 +109,13 @@ The project focuses on developing novel energy-efficient control algorithms for 
 
 ---
 
-## Milestones
+## ✅ Milestones
 
 | Milestone | Description | Work Package | Verification Method | Time (Month) |
 |-----------|-------------|--------------|---------------------|--------------|
-| MS1 | Development of control methods | WP1 | Report, publication, GitHub update | Month 8 |
-| MS2 | Certification of the control methods | WP2 | Publication | Month 12 |
-| MS3 | Delivery of a talk for the general public | WP2 | Presentation on GitHub | Month 10 |
+| MS1 | Development of control methods ✅  | WP1 | Report, publication, GitHub update  | Month 8 |
+| MS2 | Certification of the control methods ✅| WP2 | Publication | Month 12 |
+| MS3 | Delivery of a talk for the general public ✅ | WP2 | Presentation on GitHub | Month 10 |
 | MS4 | Increased implementability of the methods | WP3 | Report, publication, GitHub update | Month 18 |
 | MS5 | Experimental implementations | WP4 | Report, publication, GitHub update | Month 22 |
 | MS6 | Open-source tool package release | WP4 | GitHub update | Month 23 |
