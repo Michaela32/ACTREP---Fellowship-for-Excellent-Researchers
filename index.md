@@ -99,7 +99,7 @@ The project focuses on developing novel energy-efficient control algorithms for 
 | D1.2 | [Conference publication on algorithm design (PDF)](RS_flexy.pdf) | WP1 | Publication | Month 8 |
 | D1.3 | [Established basis of international research cooperation](Submision_to_CDC2025.pdf) | WP1 | Other | Month 8 |
 | D2.1 | [CC Journal publication on algorithm design and stability certification](Submision_to_Neurocomputing.pdf) | WP2 | Publication | Month 12 |
-| D2.2 | [Presentation of the project’s objectives and findings for the general public](popularizacna_prednaska (1).pdf) | WP2 | Presentation | Month 10 |
+| D2.2 | [Presentation of the project’s objectives and findings for the general public](popularizacna_prednaska(1).pdf) | WP2 | Presentation | Month 10 |
 | D2.3 | Interim report on implementation and achievements | WP2 | Report | Month 12 |
 | D3.1 | Optimized algorithms for resource-constrained hardware | WP3 | Algorithms | Month 16 |
 | D3.2 | Conference publication with international research partner | WP3 | Publication | Month 18 |
