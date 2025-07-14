@@ -123,10 +123,46 @@ The project focuses on developing novel energy-efficient control algorithms for 
 
 ---
 
-## Open-Source Tools
+## 📚 Publications
 
-The project will deliver a suite of open-source tools to facilitate the use of energy-efficient control methods. These tools will be accompanied by user documentation and tutorials for ease of use in industrial applications.  
+- **Supervised Learning for Robust Predictive Control**  
+  Submitted to *Neurocomputing*, 2024  
+  <https://doi.org/XX.XXXX/neurocomputing.preprint>
 
-- [Download the Open-Source Tools](link) (Coming in 2026)
-- [User Documentation and Tutorials](link)
+- **Experimental Recursive RS-based MPC**  
+  Presented at PC25, 2025
+
+- **Variance-Adaptive Approximated MPC**  
+  Submitted to *CDC 2025*
+
+- **Deep Koopman MPC for Pasteurization**  
+  Submitted to *Control Engineering Practice*  
+  → 30% improvement over subspace ID baseline
+
+---
+
+## 🤝 Collaborators
+
+- École Polytechnique Fédérale de Lausanne (EPFL)
+- University of Pisa
+- Czech Technical University in Prague
+
+---
+
+## 🛠 Open Tools (coming soon)
+
+- ✅ Interactive MPC tuner
+- ✅ Code export for embedded targets
+- ✅ Web-based visualizer
+
+---
+
+## 💬 Contact
+
+**Dr. Michaela Horváthová**  
+Principal Investigator, ACTREP  
+📍 Slovak University of Technology in Bratislava  
+🌐 [https://www.uiam.sk/~horvathova](https://www.uiam.sk/~horvathova)  
+✉️ michaela.horvathova@stuba.sk  
+ORCID: [0000-0003-2295-8888](https://orcid.org/0000-0003-2295-8888)
 
