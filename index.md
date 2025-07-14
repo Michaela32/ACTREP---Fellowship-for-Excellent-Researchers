@@ -96,10 +96,10 @@ The project focuses on developing novel energy-efficient control algorithms for 
 | Deliverable | Description | Work Package | Type | Delivery Month |
 |-------------|-------------|--------------|------|----------------|
 | D1.1 | [📄 Download Comprehensive Literature Review Report (PDF)](literarny_prehlad_sprava.pdf) | WP1 | Report | Month 6 |
-| D1.2 | Conference publication on algorithm design | WP1 | Publication | Month 8 |
-| D1.3 | Established basis of international research cooperation | WP1 | Other | Month 8 |
-| D2.1 | CC Journal publication on algorithm design and stability certification | WP2 | Publication | Month 12 |
-| D2.2 | Presentation of the project’s objectives and findings for the general public | WP2 | Presentation | Month 10 |
+| D1.2 | [Conference publication on algorithm design (PDF)] (RS_flexy.pdf) | WP1 | Publication | Month 8 |
+| D1.3 | [Established basis of international research cooperation] (Submission_to_CDC2025.pdf) | WP1 | Other | Month 8 |
+| D2.1 | [CC Journal publication on algorithm design and stability certification](Submission_to_Neurocomputing.pdf) | WP2 | Publication | Month 12 |
+| D2.2 | [Presentation of the project’s objectives and findings for the general public](popularizacna_prednaska (1).pdf) | WP2 | Presentation | Month 10 |
 | D2.3 | Interim report on implementation and achievements | WP2 | Report | Month 12 |
 | D3.1 | Optimized algorithms for resource-constrained hardware | WP3 | Algorithms | Month 16 |
 | D3.2 | Conference publication with international research partner | WP3 | Publication | Month 18 |
@@ -125,15 +125,6 @@ The project focuses on developing novel energy-efficient control algorithms for 
 
 ---
 
-## Publications and Reports
-
-All research outputs, including journal publications, conference papers, and reports, will be made publicly available on this GitHub page and through the project’s associated repository. Stay tuned for updates!
-
-- [Link to Literature Review Report (D1.1)]((Coming soon in February))
-- [Link to Journal Publications](Coming Soon)
-
----
-
 ## Open-Source Tools
 
 The project will deliver a suite of open-source tools to facilitate the use of energy-efficient control methods. These tools will be accompanied by user documentation and tutorials for ease of use in industrial applications.  
@@ -141,6 +132,3 @@ The project will deliver a suite of open-source tools to facilitate the use of e
 - [Download the Open-Source Tools](link) (Coming in 2026)
 - [User Documentation and Tutorials](link)
 
----
-
-Stay updated with the latest developments and access all project deliverables by bookmarking this GitHub page!
