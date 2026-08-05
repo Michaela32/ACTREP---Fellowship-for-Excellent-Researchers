@@ -11,7 +11,7 @@
 
 This project is funded by the **European Union – NextGenerationEU** through the **Recovery and Resilience Plan for Slovakia** under Project No. **09I03-03-V04-00636**.
 
-*(Insert ACTREP, NextGenerationEU, Recovery Plan and STU/UIAM logos here.)*
+<img src="LOGOLOGO.png" height="90">
 
 ---
 
@@ -25,7 +25,7 @@ The project is carried out at the **Institute of Information Engineering, Automa
 
 More information about the institute:
 
-https://www.uiam.sk/
+https://www.uiam.sk/?menu=3&show_id=5&r_p_id=180
 
 ---
 
