@@ -210,7 +210,7 @@ https://ieeexplore.ieee.org/document/11625647
 
 Open-access preprint: https://arxiv.org/abs/2511.04437
 
-Presentation: [ECC2026_Deep_Koopman_EMPC_presentation.pdf](ECC2026_Deep_Koopman_EMPC_presentation.pdf)
+Presentation: [ECC_2026_Deep_Koopman_EMPC_presentation.pdf](ECC2026_Deep_Koopman_EMPC_presentation.pdf)
 
 ---
 
