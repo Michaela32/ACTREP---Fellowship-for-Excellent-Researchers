@@ -112,7 +112,7 @@ Main activities:
 | D4.1 | Journal publication on algorithm design and practical implementation | ✅ Published | 🔗 [Control Engineering Practice article](https://www.sciencedirect.com/science/article/pii/S0967066125004253) · 🔗 [DOI](https://doi.org/10.1016/j.conengprac.2025.106663) |
 | D4.2 | Conference publication on algorithm design and simulation results | ✅ Published and presented | 🔗 [ECC 2026 paper](https://ieeexplore.ieee.org/document/11625647) · 📄 [arXiv](https://arxiv.org/abs/2511.04437) · 📊 [Presentation](ECC2026_Deep_Koopman_EMPC_presentation.pdf) |
 | D4.3 | Open-source tool package with user documentation and tutorials | ✅ Completed | 🔗 [ACTREP Variance-Adaptive MPC](https://github.com/Michaela32/Variance_Adaptive_MPC_ACTREP) · 🔗 [MPTplus](https://github.com/holaza/mptplus) · 📘 [MPTplus tutorial](https://github.com/holaza/mptplus/wiki/Time%E2%80%90Varying-Tube-MPC-design) |
-| D4.4 | Grant application submitted to a grant agency and notification of Faculty management | ✅ Completed | **APVV-25-0314 (OptiAIM)**, submitted 6 February 2026; FCHPT STU is the applicant organization and Michaela Horváthová is a named project-team member |
+| D4.4 | Grant application submitted to a grant agency and notification of Faculty management | ✅ Completed | **APVV (OptiAIM)**, submitted 6 February 2026; FCHPT STU is the applicant organization and Michaela Horváthová is a named project-team member |
 | D4.5 | Final report on the achievements of the project | 🟡 In preparation | Formal submission will follow the grant agency's reporting deadline in September 2026; a public technical summary will be added after completion |
 
 ---
@@ -177,7 +177,7 @@ https://www.sciencedirect.com/science/article/pii/S0967066125004253
 
 ## Conference Papers
 
-### Experimental Recursive RS-based MPC
+### Experimental Application of Stochastic Approximated MPC
 
 Process Control Conference (PC)
 
@@ -290,15 +290,14 @@ Together, the dedicated ACTREP variance-adaptive MPC package and the MPTplus con
 
 The grant-application component of deliverable **D4.4** and milestone **MS7** is documented by the submitted application:
 
-- **Call and application number:** APVV-25-0314
+- **Call:** APVV
 - **Project title:** *Integrated Optimization and Machine Learning for Reliable Modelling, Monitoring, and Control*
 - **Acronym:** OptiAIM
 - **Applicant organization:** Slovak University of Technology in Bratislava, Faculty of Chemical and Food Technology
 - **Principal investigator:** doc. Ing. Radoslav Paulen, PhD.
-- **ACTREP researcher:** Michaela Horváthová, named project-team member
+- **Investigator:** Michaela Horváthová, named project-team member
 - **Submission date:** 6 February 2026
 - **Proposed duration:** 1 September 2026 – 31 August 2029
-- **Requested budget:** €299,856
 
 The application was submitted institutionally by FCHPT STU and identifies the Faculty's statutory representative. Faculty-level institutional involvement and awareness were therefore inherent in the formal submission process. Michaela Horváthová participated as a named member of the proposed research team; this statement does not claim that she was the principal investigator. Supporting application documentation is retained in the project records and is not published in this public repository.
 
@@ -338,7 +337,7 @@ Current collaborations include:
 
 - École Polytechnique Fédérale de Lausanne (EPFL)
 - University of Pisa
-- Karlsruhe Institute of Technology
+- Université Paris Saclay
 - Czech Technical University in Prague
 
 ---
