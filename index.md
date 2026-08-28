@@ -113,7 +113,7 @@ Main activities:
 | D4.2 | Conference publication on algorithm design and simulation results | ✅ Published and presented | 🔗 [ECC 2026 paper](https://ieeexplore.ieee.org/document/11625647) · 📄 [arXiv](https://arxiv.org/abs/2511.04437) · 📊 [Presentation](ECC2026_Deep_Koopman_EMPC_presentation.pdf) |
 | D4.3 | Open-source tool package with user documentation and tutorials | ✅ Completed | 🔗 [ACTREP Variance-Adaptive MPC](https://github.com/Michaela32/Variance_Adaptive_MPC_ACTREP) · 🔗 [MPTplus](https://github.com/holaza/mptplus) · 📘 [MPTplus tutorial](https://github.com/holaza/mptplus/wiki/Time%E2%80%90Varying-Tube-MPC-design) |
 | D4.4 | Grant application submitted to a grant agency and notification of Faculty management | ✅ Completed | **APVV (OptiAIM)**, submitted 6 February 2026; FCHPT STU is the applicant organization and Michaela Horváthová is a named project-team member |
-| D4.5 | Final report on the achievements of the project | 🟡 In preparation | Formal submission will follow the grant agency's reporting deadline in September 2026; a public technical summary will be added after completion |
+| D4.5 | Final report on the achievements of the project | ✅ Complete | [Final Report (PDF)](final_technical_summary.pdf) Formal submission will follow the grant agency's reporting deadline in September 2026;  |
 
 ---
 
@@ -127,7 +127,7 @@ The following public documents can be downloaded directly from this repository:
 - 📄 [Variance-Adaptive Approximated MPC — ECC 2026 presentation](ECC2026_Variance_Adaptive_MPC_presentation.pdf) — D3.2
 - 📄 [Deep Koopman Economic MPC — ECC 2026 presentation](ECC2026_Deep_Koopman_EMPC_presentation.pdf) — D4.2
 - 📄 [Experimental Application of Stochastic Approximated MPC poster](poster%20%282%29.pdf)
-- 📄 **ACTREP final technical summary** — to be added as `ACTREP_final_technical_summary.pdf` after completion of the final reporting process
+- 📄 [Final Report (PDF)](final_technical_summary.pdf) — D4.5
 
 The interim implementation report, the APVV grant application, submission confirmations, and the official administrative final report are retained in the project records and are not published in this public repository.
 
