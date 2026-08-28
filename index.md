@@ -29,15 +29,18 @@ https://www.uiam.sk/?menu=3&show_id=5&r_p_id=180
 
 ---
 
-# Research Objectives
+# Key Results
 
-The main objectives of ACTREP are:
+ACTREP delivered measurable advances in the performance, safety, computational efficiency and practical implementation of model predictive control:
 
-- development of novel energy-efficient control methods,
-- theoretical certification of stability and recursive feasibility,
-- implementation on computationally constrained embedded platforms,
-- experimental validation,
-- dissemination of results through open science principles.
+- Energy-efficient experimental control: Deep Koopman MPC reduced the energy-related control metric from 801 to 455 and improved the mean absolute tracking error from 83.44 to 28.22 on a laboratory pasteurisation unit compared with the LQI benchmark.
+- Certified learning-based robust MPC: The developed supervised-learning control framework provides formal feasibility and stability guarantees while reducing controller memory requirements by up to 99.5% for the quadrotor case and 94% for the double-integrator case compared with the respective conventional MPC benchmarks.
+- Solver-free approximated MPC: A variance-adaptive random-shooting MPC method was developed to provide computationally efficient control without requiring an online mathematical programming solver. The method was evaluated in quadrotor simulations and experimentally validated on the Flexy2 laboratory platform.
+- Practical and experimental validation: The developed approaches were assessed through simulations, hardware-in-the-loop studies and laboratory experiments involving the Flexy2 device, a pasteurisation unit and a heat-exchanger platform.
+- Open-source implementation: ACTREP released a documented MATLAB implementation of variance-adaptive approximated MPC, including a reproducible example, functional tests, a stabilising support controller, citation metadata and an MIT licence.
+- Established toolbox contribution: Time-varying tube MPC was implemented in the open-source MPTplus toolbox, supported by automated controller synthesis, numerical verification, experimental validation and a public user tutorial.
+- Scientific dissemination: The project produced two peer-reviewed journal articles, three published conference papers, two presentations at ECC 2026, open-access repository records, public educational materials and an additional implementation-focused paper submitted to ACC 2027.
+- International cooperation and continuity: ACTREP strengthened cooperation with researchers from leading European institutions and contributed to the institutionally submitted APVV OptiAIM follow-up grant proposal.
 
 ---
 
