@@ -123,12 +123,10 @@ The following public documents can be downloaded directly from this repository:
 
 - 📄 [Comprehensive literature review report](literarny_prehlad_sprava.pdf) — D1.1
 - 📄 [Experimental Application of Stochastic Approximated MPC](RS_flexy.pdf) — D1.2
-- 📄 [International-cooperation conference manuscript](Submision_to_CDC2025.pdf) — D1.3
-- 📄 [Supervised Learning for Robust Predictive Control: Safe and Tunable Approach](Submision_to_Neurocomputing.pdf) — D2.1
 - 📄 [Presentation for the general public](popularizacna_prednaska.pdf) — D2.2
-- 📊 [Variance-Adaptive Approximated MPC — ECC 2026 presentation](ECC2026_Variance_Adaptive_MPC_presentation.pdf) — D3.2
-- 📊 [Deep Koopman Economic MPC — ECC 2026 presentation](ECC2026_Deep_Koopman_EMPC_presentation.pdf) — D4.2
-- 📄 [ACTREP publicity poster](poster%20%282%29.pdf)
+- 📄 [Variance-Adaptive Approximated MPC — ECC 2026 presentation](ECC2026_Variance_Adaptive_MPC_presentation.pdf) — D3.2
+- 📄 [Deep Koopman Economic MPC — ECC 2026 presentation](ECC2026_Deep_Koopman_EMPC_presentation.pdf) — D4.2
+- 📄 [Experimental Application of Stochastic Approximated MPC poster](poster%20%282%29.pdf)
 - 📄 **ACTREP final technical summary** — to be added as `ACTREP_final_technical_summary.pdf` after completion of the final reporting process
 
 The interim implementation report, the APVV grant application, submission confirmations, and the official administrative final report are retained in the project records and are not published in this public repository.
@@ -145,7 +143,7 @@ The interim implementation report, the APVV grant application, submission confir
 | MS4 Increased implementability | ✔ Achieved |
 | MS5 Experimental implementation | ✔ Achieved |
 | MS6 Open-source software release | ✔ Achieved |
-| MS7 Grant proposal submission | ✔ Achieved — APVV-25-0314 submitted on 6 February 2026 |
+| MS7 Grant proposal submission | ✔ Achieved  |
 
 ---
 
